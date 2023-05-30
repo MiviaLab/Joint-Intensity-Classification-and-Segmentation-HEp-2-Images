@@ -9,6 +9,4 @@ There is a reduced version of the framework used as it is still under developmen
 After the realization of the dataloader for the specific dataset and data type the framework could be used executing cross_validation.py.
 Moreover, the cross_validation.py file accept different parameters that could be analyzed in the file with their description.
 
-Following the paper citation and reference. 
-
-As soon as available.
+**G. Percannella, U. Petruzzello, P. Ritrovato, L. Rundo, F. Tortorella and M. Vento, "Joint Intensity Classification and Specimen Segmentation on HEp-2 Images: a Deep Learning Approach," 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 4343-4349, doi: 10.1109/ICPR56361.2022.9956212.**
